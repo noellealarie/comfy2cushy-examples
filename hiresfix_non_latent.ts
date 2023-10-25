@@ -3,7 +3,7 @@ import { UIHelper } from './_scripts/UIHelper'
 
 action({
     author: 'noellealarie',
-    name: 'Hires Fix Latent',
+    name: 'Hires Fix Non-Latent',
     description: 'Ported from https://comfyanonymous.github.io/ComfyUI_examples/2_pass_txt2img/',
     help: '',
     ui: (form) => {

@@ -4,7 +4,7 @@ A port from [ComfyUI Examples](https://comfyanonymous.github.io/ComfyUI_examples
 
 ### Done:
 - [x] “Hires Fix” aka 2 Pass Txt2Img
-- [ ] Img2Img
+- [x] Img2Img
 - [ ] Inpainting
 - [ ] Lora
 - [ ] Hypernetworks
